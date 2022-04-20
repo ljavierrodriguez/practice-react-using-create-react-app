@@ -1,0 +1,8 @@
+li {
+    width: 390px;
+    margin: 0 auto;
+    border: 1px solid blue;
+    padding: 2px 5px;
+    list-style: none;
+    box-sizing: border-box;
+}
